@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clef-music-tools": {
+      "type": "http",
+      "url": "https://clefdrills.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "clef-music-tools",
+  "displayName": "Clef Music Tools",
+  "version": "1.0.0",
+  "description": "Music theory helpers for piano players: transpose chord charts, spell any chord as piano notes with MIDI numbers, turn guitar tab into piano pitches, and find Clef guides on converting music between formats.",
+  "author": { "name": "Mel Owen", "url": "https://go.clefdrills.com/mkt-github" },
+  "homepage": "https://go.clefdrills.com/mkt-github-docs",
+  "repository": "https://github.com/MelMayssonOwen/clef-music-tools-mcp",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://clefdrills.com/privacy/",
+  "keywords": ["music", "piano", "chords", "music theory", "transpose", "guitar tab", "mcp"]
+}
